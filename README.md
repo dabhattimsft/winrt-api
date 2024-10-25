@@ -14,3 +14,11 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.  
+
+## How to update a file in winrt-api
+
+Public repo on GitHub: [winrt-api](https://github.com/MicrosoftDocs/winrt-api) this is for public contributions - PRs filed on the "docs" branch approved and merged will be reflected in the private repo and updated on the live site.
+
+Private repo in Azure DevOps cpubwin: [windows-uwp/_git/winrt-api](https://cpubwin.visualstudio.com/windows-uwp/_git/winrt-api?version=GBmain&_a=contents): For internal updates and contributions - PRs filed on the "main" branch approved and merged will be reflected on the live site and public repo.
+
+[Internal Windows Authoring Guide help](https://review.learn.microsoft.com/en-us/windows-authoring-guide/contribute/api-ref-files?branch=main)
